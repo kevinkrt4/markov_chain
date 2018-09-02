@@ -1,1 +1,6 @@
 This is a new file. To experiment with pushing and pulling to a remote git repository.
+
+
+I cloned the repostiory again and created this new branch: new_ver.
+
+I'm going to commit this and then push the branch up to the master..
